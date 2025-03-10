@@ -8,6 +8,7 @@ The link below will direct you to the Microsoft .NET Maui Installation Web Page.
 
 ## Purpose + Objectives
 The purpose of this lab is to ensure **Visual Studio Code** editor is properly installed.  Once **Visual Studio Code** is installed along with the necessary workload, you should be able to complete the 9 steps of creating a .NET MAUI application listed at the link below.
+
 Click this link if you are building Andriod App - [Build Your First App](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-android&view=net-maui-9.0&tabs=visual-studio-code)  
 Click this link if you are building IOS App - [Build Your First App](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-android&view=net-maui-9.0&tabs=visual-studio-code)  
 
